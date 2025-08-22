@@ -86,6 +86,7 @@ To write a C program to implement a symbol table.
 
 # OUTPUT:
 <img width="786" height="509" alt="image" src="https://github.com/user-attachments/assets/4f4aa255-794c-46a2-9cb6-41d77110cd62" />
+<img width="792" height="480" alt="image" src="https://github.com/user-attachments/assets/83d82c16-6d62-4473-b9f6-f39613eb6a3d" />
 
 
 # RESULT:
